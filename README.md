@@ -1,7 +1,5 @@
 # SilentFeline
 
-https://github.com/user-attachments/assets/7b4a5623-07ab-4e4f-9d3b-8e3f5ee09eb4
-
 ```text
 ┌──────────────────────────────────────────────┐
 │  SILENTFELINE // CYBER RESEARCH LAB          │
